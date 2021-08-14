@@ -4,4 +4,4 @@ https://docs.google.com/presentation/d/1FdZfAFA3T-NTces5_Tw9NKrw_umpRWsVHP8_pT_L
 
 ## Twists and Turns
 
-![Intro](https://github.com/jiamin-leong/olympicfavourites/blob/master/olympics_favourites_analysis/olympicsfavourites_0.png)
+![Intro](https://github.com/jiamin-leong/olympicfavourites/blob/olympics_favourites_analysis/olympicsfavourites_0.png)
